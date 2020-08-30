@@ -9,6 +9,8 @@ Change fileLocation in method readFileInString().<br/>
 
 String fileLocation = "src\data.txt";<br/>
 
+To execute the program run the class main in the file located in /src/main.java
+
 #### Computacional complexity: <br/>
 For to solve the problem, I focus initially to read correctly the data from text,<br/>
 that should contain the words, spaces, and break rows.
