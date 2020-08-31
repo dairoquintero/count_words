@@ -14,7 +14,7 @@ String fileLocation = "src\data.txt";<br/>
 #### Computacional complexity: <br/>
 To solve the problem, I focus initially to read correctly the data from text,<br/>
 which should contain the words, spaces, and break rows.
-To read the file use BufferReader, and after use, split to separate every single word in a simple array.<br/>
+To read the file use BufferReader, and after, use split to separate every single word in a simple array.<br/>
 After I move in this array with two for cycles, and analyze how many times is the word in the text, and find all the same words,<br/>
 and save this word, and the number of repetitions in two arrays(words, and number of repetitions)<br/>
 For calculating the number of words, I only interest the numbers of values after to split, <br/>
